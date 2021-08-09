@@ -5,7 +5,7 @@
 %global crate vcpkg
  
 Name:           rust-%{crate}
-Version:        0.2.14
+Version:        0.2.15
 Release:        1
 Summary:        Library to find native dependencies in a vcpkg tree
  
