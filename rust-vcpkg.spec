@@ -6,7 +6,7 @@
  
 Name:           rust-%{crate}
 Version:        0.2.14
-Release:        %autorelease
+Release:        1
 Summary:        Library to find native dependencies in a vcpkg tree
  
 # Upstream license specification: MIT/Apache-2.0
